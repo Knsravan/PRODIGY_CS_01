@@ -6,8 +6,8 @@ This repository contains a Python program that encrypts and decrypts messages us
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/PRODIGY_WD_01.git
-   cd PRODIGY_WD_01
+   git clone https://github.com/your-username/PRODIGY_CS_01.git
+   cd PRODIGY_CS_01
    ```
 
 2. Run the script:
